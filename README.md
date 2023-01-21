@@ -49,6 +49,8 @@ Com o meu primeiro ano de estudo sou capaz de analisar, projetar, documentar sis
  
  </br>
  
+ <img aling="rigth" alt="Post" src="https://discord.com/channels/@me/1066490257576558643/1066490439290605618"> 
+ 
  
  
  

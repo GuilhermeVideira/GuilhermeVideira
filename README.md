@@ -2,6 +2,9 @@
 
 ### Eu sou Guilherme Videira - 🧑🏻‍ 
 
+<div>
+<img align="center" alt="Compositor" height="200" width="200"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/phalcon/phalcon-original.svg" />
+          </div>
         
 Falaa dev.                      Atualmente estou cursando o curso de desenvolvimento de sistemas na Etec Adolpho Berezin em Mongaguá - SP. 
 

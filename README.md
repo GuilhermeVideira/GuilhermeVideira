@@ -44,27 +44,13 @@
   <img  align="center" alt="C#" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
   <img  align="center" alt="MySql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
    <img align="center" alt="Figma" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
-    <img align="center" alt="Figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" />
+    <img align="center" alt="Canva" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" />
+   <img align="center" alt="Photoshop" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" />
 </div>
 
-#
-          
-</br>
+
+# 
+
    <a href="https://github.com/GuilhermeVideira">
-   <img aling="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=GuilhermeVideira&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeVideira&layout=compact&langs_count=6&theme=tokyonight"/>
- </br>
- 
- 
- 
- 
- 
- 
- 
- 
- 
-
+   <img height="180em" src="https://github-readme-stats.vercel.app./api?username=GuilhermeVideira&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true">
   
-
-
-

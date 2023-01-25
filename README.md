@@ -12,7 +12,7 @@
 
 ⌨️ - Sou perdidamente viciado em programar.
 
-👅 - Sei falar italiano (Nivel: intermediário), e um pouco de inglês (Nivel: básico).
+👅 - Italiano (Nivel: intermediário) / Inglês (Nivel: básico).
 
 💼 - A procura do meu primeiro emprego na área de desenvolvimento full stack. 
 

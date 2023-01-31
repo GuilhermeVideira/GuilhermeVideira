@@ -1,6 +1,6 @@
 ## 👋🏻 Bem-vindo(a) ao meu perfil!
 
-### Eu sou Guilherme Videira - 🧑🏻‍🖤 
+### Eu sou Guilherme Videira - 🧑🏻‍ 
 
 <div>
 <img align="center" alt="Imagem dos meus dados" src="https://github.com/GuilhermeVideira/GuilhermeVideira/blob/main/imagens/Imagem%20do%20perfil.png?raw=true" />

@@ -1,20 +1,20 @@
 ## 👋🏻 Bem-vindo(a) ao meu perfil!
 
-### Eu sou Guilherme Videira - 🧑🏻‍ 
+### Eu sou Guilherme Videira - 🧑🏻‍
 
-<div>
-<img align="center" alt="Imagem dos meus dados" src="https://github.com/GuilhermeVideira/GuilhermeVideira/blob/main/imagens/Imagem%20do%20perfil.png?raw=true" />
-          </div>
-        
-💻 - Atualmente estou cursando o curso de desenvolvimento de sistemas na Etec Adolpho Berezin em Mongaguá - SP. 
+<img align="center" alt="Imagem dos meus dados" src="https://github.com/GuilhermeVideira/GuilhermeVideira/blob/main/ImagemPerfilGithub.png?raw=true" />
 
-📑 - Com o meu primeiro ano de estudo sou capaz de analisar, projetar, documentar sistemas, e também desenvolver sites web. 
+#
 
-⌨️ - Sou perdidamente viciado em programar.
 
-👅 - Italiano (Nivel: intermediário) / Inglês (Nivel: básico).
+ #### 💻 - Atualmente estou cursando o curso de desenvolvimento de sistemas na Etec Adolpho Berezin em Mongaguá - SP. 
 
-💼 - A procura do meu primeiro emprego na área de desenvolvimento full stack. 
+ #### 📑 - Com o meu primeiro ano de estudo sou capaz de analisar, projetar, documentar sistemas, e também desenvolver sites web. 
+
+ #### ⌨️ - Sou perdidamente viciado em programar!!
+
+ #### 👅 - Italiano (Nivel: intermediário) / Inglês (Nivel: básico).
+
 
 #
 

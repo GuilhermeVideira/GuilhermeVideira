@@ -7,7 +7,7 @@
 #
 
 
- #### 💻 - Atualmente estou cursando o curso de desenvolvimento de sistemas na Etec Adolpho Berezin em Mongaguá - SP. 
+ #### 💻 - Atualmente estou cursando desenvolvimento de sistemas na Etec Adolpho Berezin em Mongaguá - SP. 
 
  #### 📑 - Com o meu primeiro ano de estudo sou capaz de analisar, projetar, documentar sistemas, e também desenvolver sites web. 
 

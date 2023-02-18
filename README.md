@@ -11,9 +11,9 @@
 
  #### 📑 - Com o meu primeiro ano de estudo sou capaz de analisar, projetar, documentar sistemas, e também desenvolver sites web. 
 
- #### ⌨️ - Sou perdidamente viciado em programar!!
+ #### ⌨️ - Sou perdidamente viciado em programar.
 
- #### 👅 - Italiano (Nivel: intermediário) / Inglês (Nivel: básico).
+ #### 👅 - Italiano (Nivel: intermediário) / Inglês (Nivel: básico)
 
 
 #

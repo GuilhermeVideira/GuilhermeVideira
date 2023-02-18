@@ -1,5 +1,9 @@
 ## 👋🏻 Bem-vindo(a) ao meu perfil!
 
+<img align="center" alt="Imagem dos meus dados" src="https://github.com/GuilhermeVideira/GuilhermeVideira/blob/main/ImagemPerfilGithub.png?raw=true" />
+
+#
+
 ### Eu sou Guilherme Videira - 🧑🏻‍
 
  #### 💻 - Atualmente estou cursando desenvolvimento de sistemas na Etec Adolpho Berezin em Mongaguá - SP. 

@@ -2,11 +2,6 @@
 
 ### Eu sou Guilherme Videira - 🧑🏻‍
 
-<img align="center" alt="Imagem dos meus dados" src="https://github.com/GuilhermeVideira/GuilhermeVideira/blob/main/ImagemPerfilGithub.png?raw=true" />
-
-#
-
-
  #### 💻 - Atualmente estou cursando desenvolvimento de sistemas na Etec Adolpho Berezin em Mongaguá - SP. 
 
  #### 📑 - Com o meu primeiro ano de estudo sou capaz de analisar, projetar, e documentar sistemas, modelar banco de dados, elaborar prototipação UX e UI design, e também desenvolver páginas e sites para a web. 

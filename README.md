@@ -9,7 +9,7 @@
 
  #### 💻 - Atualmente estou cursando desenvolvimento de sistemas na Etec Adolpho Berezin em Mongaguá - SP. 
 
- #### 📑 - Com o meu primeiro ano de estudo sou capaz de analisar, projetar, documentar sistemas, e também desenvolver páginas e sites para a web. 
+ #### 📑 - Com o meu primeiro ano de estudo sou capaz de analisar, projetar, e documentar sistemas, modelar banco de dados, elaborar prototipações UX e UI design, e também desenvolver páginas e sites para a web. 
 
  #### ⌨️ - Sou perdidamente viciado em programar.
 

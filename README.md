@@ -11,8 +11,6 @@
 
  #### 📑 - Com o meu primeiro ano de estudo sou capaz de analisar, projetar, e documentar sistemas, modelar banco de dados, elaborar prototipação UX e UI design, e também desenvolver páginas e sites para a web. 
 
- #### ⌨️ - Sou perdidamente viciado em programar.
-
  #### 👅 - Italiano (Nivel: intermediário) / Inglês (Nivel: básico)
 
 

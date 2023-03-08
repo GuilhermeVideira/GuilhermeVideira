@@ -1,6 +1,8 @@
 ## 👋🏻 Bem-vindo(a) ao meu perfil!
 
-<img align="center" alt="Imagem dos meus dados" src="https://github.com/GuilhermeVideira/GuilhermeVideira/blob/main/ImagemPerfilGithub.png?raw=true" />
+![image](https://user-images.githubusercontent.com/123119430/223731200-b2dc2be7-5c7e-4ef0-99df-1f06f8798989.png)
+
+
 
 #
 

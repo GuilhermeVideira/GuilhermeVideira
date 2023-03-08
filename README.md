@@ -1,7 +1,6 @@
 ## 👋🏻 Bem-vindo(a) ao meu perfil!
 
-![image](https://user-images.githubusercontent.com/123119430/223731200-b2dc2be7-5c7e-4ef0-99df-1f06f8798989.png)
-
+![image](https://user-images.githubusercontent.com/123119430/223731708-7c2216db-5e5a-4688-814f-e6e7243fd990.png)
 
 
 #

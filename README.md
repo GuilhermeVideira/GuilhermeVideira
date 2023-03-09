@@ -2,7 +2,6 @@
 
 ![image](https://user-images.githubusercontent.com/123119430/223731708-7c2216db-5e5a-4688-814f-e6e7243fd990.png)
 
-
 #
 
 ### Eu sou Guilherme Videira - 🧑🏻‍

@@ -11,7 +11,11 @@
 
  #### 📑 - Com o meu primeiro ano de estudo sou capaz de analisar, projetar, e documentar sistemas, modelar banco de dados, elaborar prototipação UX e UI design, e também desenvolver páginas e sites para a web. 
 
+#### 💼 - Em busca da primeira oportunidade de emprego como desenvolvedor. 
+
  #### 👅 - Italiano (Nivel: intermediário) / Inglês (Nivel: básico)
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&color=fff&center=true&vCenter=true&width=1000&lines=Welcome%2C+My+name+is+Guilherme+Videira!;I'm+15+years+old.;I'm+from+Brazil%2C+Mongaguá+-+SP.;I+study+systems+development!+;at+Etec+Adolpho+Berezin!;Follw+we!)](https://github.com/endrewss)
 
 
 #
@@ -54,5 +58,6 @@
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeVideira&layout=compact&langs_count=6&theme=transparent"/>
 
  
+
  
  

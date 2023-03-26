@@ -4,8 +4,12 @@
 
 #
 
-### Eu sou Guilherme Videira - 🧑🏻‍
+<div>
+<img align="right" alt="AvatarGuilhermeVideira" height="200" width="200"  src="https://github.com/GuilhermeVideira/GuilhermeVideira/blob/main/Avatar%20GuilhermeVideira.png?raw=true" />
+</div>
 
+### Eu sou Guilherme Videira - 🧑🏻‍
+         
  #### 💻 - Atualmente estou cursando desenvolvimento de sistemas na Etec Adolpho Berezin em Mongaguá - SP. 
 
  #### 📑 - Com o meu primeiro ano de estudo sou capaz de analisar, projetar, e documentar sistemas, modelar banco de dados, elaborar prototipação UX e UI design, e também desenvolver páginas e sites para a web. 
@@ -13,6 +17,7 @@
 #### 💼 - Em busca da primeira oportunidade de emprego como desenvolvedor. 
 
  #### 👅 - Italiano (Nivel: intermediário) / Inglês (Nivel: básico)
+ 
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&color=238972&center=true&vCenter=true&width=1000&lines=Welcome%2C+My+name+is+Guilherme+Videira!;I'm+15+years+old.;I'm+from+Brazil%2C+Mongaguá+-+SP.;I+study+systems+development!+;at+Etec+Adolpho+Berezin!;Follw+we!)](https://github.com/endrewss)
 
@@ -23,12 +28,10 @@
   <a href="https://www.instagram.com/guiiziin07/" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
   <a href="https://www.linkedin.com/in/guilherme-videira-5b147b238/" target="_blank"><img alt="Linkedin" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   
-  
 <div>
 <img align="right" alt="Compositor" height="200" width="200"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/phalcon/phalcon-original.svg" />
 </div>
           
-
   #
    ### Conhecimento:
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -50,8 +53,7 @@
 <img align="center" alt="TypeScript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" /> <img align="center" alt="Linux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
  <img align="center" alt="Php" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg">
 </div>
-            
-          
+                  
 # 
  <div align="center">
   <a href="https://github.com/GuilhermeVideira">
@@ -64,5 +66,4 @@
 ![Github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=GuilhermeVideira&theme=gotham&hide_border=true)
 
 #
-
 

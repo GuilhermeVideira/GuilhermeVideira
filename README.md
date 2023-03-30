@@ -5,7 +5,7 @@
 #
 
 <div>
-<img align="right" alt="AvatarGuilhermeVideira" height="200" width="200"  src="https://github.com/GuilhermeVideira/GuilhermeVideira/blob/main/Avatar/Guilherme%20Videira.png?raw=true" />
+<img align="right" alt="Avatar" height="200" width="200"  src="https://github.com/GuilhermeVideira/GuilhermeVideira/blob/main/Avatar/Guilherme%20Videira.png?raw=true" />
 </div>
 
 ### Eu sou Guilherme Videira - 🧑🏻‍

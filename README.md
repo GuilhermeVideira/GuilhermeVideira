@@ -4,11 +4,11 @@
 
 #
 
-### Eu sou Guilherme Videira - 🧑🏻‍
  
- <div>
 <img align="right" alt="Avatar" height="200" width="200"  src="https://github.com/GuilhermeVideira/GuilhermeVideira/blob/main/Avatar/Guilherme%20Videira.png?raw=true" />
-</div>
+
+
+### Eu sou Guilherme Videira - 🧑🏻‍
 
 #### 💻 - Atualmente estou cursando desenvolvimento de sistemas na Etec Adolpho Berezin em Mongaguá - SP. 
 

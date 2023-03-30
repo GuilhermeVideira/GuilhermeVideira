@@ -4,19 +4,19 @@
 
 #
 
-<div>
+### Eu sou Guilherme Videira - 🧑🏻‍
+ 
+ <div>
 <img align="right" alt="Avatar" height="200" width="200"  src="https://github.com/GuilhermeVideira/GuilhermeVideira/blob/main/Avatar/Guilherme%20Videira.png?raw=true" />
 </div>
 
-### Eu sou Guilherme Videira - 🧑🏻‍
-         
- #### 💻 - Atualmente estou cursando desenvolvimento de sistemas na Etec Adolpho Berezin em Mongaguá - SP. 
+#### 💻 - Atualmente estou cursando desenvolvimento de sistemas na Etec Adolpho Berezin em Mongaguá - SP. 
 
- #### 📑 - Com o meu primeiro ano de estudo sou capaz de analisar, projetar, e documentar sistemas, modelar banco de dados, elaborar prototipação UX e UI design, e também desenvolver páginas e sites para a web. 
+#### 📑 - Com o meu primeiro ano de estudo sou capaz de analisar, projetar, e documentar sistemas, modelar banco de dados, elaborar prototipação UX e UI design, e também desenvolver páginas e sites para a web. 
 
 #### 💼 - Em busca da primeira oportunidade de emprego como desenvolvedor. 
 
- #### 👅 - Italiano (Nivel: intermediário) / Inglês (Nivel: básico)
+#### 👅 - Italiano (Nivel: intermediário) / Inglês (Nivel: básico)
  
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&color=238972&center=true&vCenter=true&width=1000&lines=Welcome%2C+My+name+is+Guilherme+Videira!;I'm+15+years+old.;I'm+from+Brazil%2C+Mongaguá+-+SP.;I+study+systems+development!+;at+Etec+Adolpho+Berezin!;Follw+we!)](https://github.com/endrewss)

@@ -59,6 +59,8 @@
   <a href="https://github.com/GuilhermeVideira">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GuilhermeVideira&theme=gotham&show_icons=true&include_all_commits=true&hide_border=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeVideira&theme=gotham&hide_border=true&layout=compact&langs_count=10"/>
+  <img height="190px" src="https://streak-stats.demolab.com?user=GuilhermeVideira&theme=gotham&hide_border=true&locale=pt_BR" />
+ 
 </div>
 
 #

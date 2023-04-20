@@ -44,7 +44,6 @@
     <img align="center" alt="Canva" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" />
    <img align="center" alt="Photoshop" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" />
    <img align="center" alt="VisualStudio" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" />
-          
 </div>
 
 #
@@ -62,9 +61,35 @@
   <img height="190px" src="https://streak-stats.demolab.com?user=GuilhermeVideira&theme=gotham&hide_border=true&locale=pt_BR" />
    <br>
     <img src="https://shields-io-visitor-counter.herokuapp.com/badge?page=GuilhermeVideira&style=for-the-badge&label=Visitantes&logo=OpenTelemetry&logoColor=97cdcb&color=2ba888" alt="numero_de_visitantes" height="40px" />
+   </div>
+   
+# 
  
-</div> 
 
+### Projetos desenvolvidos:
+   
+ <div align="center">
+   <table height="200px">
+     <tr>
+      <td>
+      <a href="https://github.com/GuilhermeVideira/Projeto-Mario-Bros" target="_blank">
+        <img align="center" src="https://github-readme-stats-endrewss.vercel.app/api/pin?username=GuilhermeVideira&repo=Projeto-Mario-Bros&theme=gotham&hide_border=true&show_icons=true&cache_seconds=14400">
+    </a>
+      </td>
+    </tr>
+ <tr>
+      <td>
+      <a href="https://github.com/GuilhermeVideira/Projeto-Pac-Man" target="_blank">
+        <img align="center" src="https://github-readme-stats-endrewss.vercel.app/api/pin?username=GuilhermeVideira&repo=Projeto-Pac-Man&theme=gotham&hide_border=true&show_icons=true&cache_seconds=14400">
+    </a>
+      </td>
+    </tr>
+ </table>
+  
+  
+ </div>
+
+   
 #
  
 ![Github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=GuilhermeVideira&theme=gotham&hide_border=true)

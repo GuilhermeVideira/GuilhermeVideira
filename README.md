@@ -1,12 +1,10 @@
 ## 👋🏻 Bem-vindo(a) ao meu perfil!
 
-![image](https://user-images.githubusercontent.com/123119430/223731708-7c2216db-5e5a-4688-814f-e6e7243fd990.png)
+![image](https://user-images.githubusercontent.com/123119430/223731708-7c2216db-5e5a-4688-814f-e6e7243fd990.png) 
 
 #
-
  
 <img align="right" alt="Avatar" height="200" width="200"  src="https://github.com/GuilhermeVideira/GuilhermeVideira/blob/main/Avatar/Guilherme%20Videira.png?raw=true" />
-
 
 ### Eu sou Guilherme Videira - 🧑🏻‍
 
@@ -24,11 +22,25 @@
 
 #
 ### 📱 Contato:
+
 <div> 
-  <a href="https://www.instagram.com/guiiziin07/" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
-  <a href="https://www.linkedin.com/in/guilherme-videira-5b147b238/" target="_blank"><img alt="Linkedin" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href="https://wa.me/5513996374996?text=Olá!%20Inice%20a%20conversa%20e%20entre%20em%20contato%20comigo!%20Sem%20problemas.%20💻" target="_blank">
-      <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Whatsapp_badge">
+ 
+  <a href="https://www.instagram.com/guiiziin07/" target="_blank">
+   <img alt="Instagram" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
+   </a> 
+ 
+  <a href="https://www.linkedin.com/in/guilherme-videira-5b147b238/" target="_blank">
+    <img alt="Linkedin" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+  </a>
+ 
+  <a href="https://wa.me/5513996374996?text=Olá!%20Inicie%20a%20conversa%20e%20entre%20em%20contato%20comigo!" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Whatsapp">
+   </a>
+ 
+ <a href="mailto:guifvideira@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail_badge">
+ </a>
+
   
 <div>
 <img align="right" alt="Compositor" height="200" width="200"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/phalcon/phalcon-original.svg" />
@@ -329,16 +341,12 @@
       </td>
     </tr>
     
-    
  </table>
-  
   
  </div>
 
-   
 #
  
 ![Github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=GuilhermeVideira&theme=gotham&hide_border=true)
 
 #
-

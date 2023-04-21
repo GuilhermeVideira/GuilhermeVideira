@@ -27,6 +27,8 @@
 <div> 
   <a href="https://www.instagram.com/guiiziin07/" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
   <a href="https://www.linkedin.com/in/guilherme-videira-5b147b238/" target="_blank"><img alt="Linkedin" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="https://wa.me/5513996374996?text=Olá!%20Inice%20a%20conversa%20e%20entre%20em%20contato%20comigo!%20Sem%20problemas.%20💻" target="_blank">
+      <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Whatsapp_badge">
   
 <div>
 <img align="right" alt="Compositor" height="200" width="200"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/phalcon/phalcon-original.svg" />
@@ -126,6 +128,21 @@
       <td>
       <a href="https://github.com/GuilhermeVideira/Projeto-Lista-de-Tarefas" target="_blank">
         <img align="center" src="https://github-readme-stats-endrewss.vercel.app/api/pin?username=GuilhermeVideira&repo=Projeto-Lista-de-Tarefas&theme=gotham&hide_border=true&show_icons=true&cache_seconds=14400">
+    </a>
+      </td>
+    </tr>
+    </tr>
+    <tr>
+      <td>
+      <a href="https://github.com/GuilhermeVideira/Projeto-Mobile" target="_blank">
+        <img align="center" src="https://github-readme-stats-endrewss.vercel.app/api/pin?username=GuilhermeVideira&repo=Projeto-Mobile&theme=gotham&hide_border=true&show_icons=true&cache_seconds=14400">
+    </a>
+      </td>
+    </tr>
+  <tr>
+      <td>
+      <a href="https://github.com/GuilhermeVideira/Projeto-Cadastro-de-Clientes" target="_blank">
+        <img align="center" src="https://github-readme-stats-endrewss.vercel.app/api/pin?username=GuilhermeVideira&repo=Projeto-Cadastro-de-Clientes&theme=gotham&hide_border=true&show_icons=true&cache_seconds=14400">
     </a>
       </td>
     </tr>

@@ -73,9 +73,8 @@
   <a href="https://github.com/GuilhermeVideira">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GuilhermeVideira&theme=gotham&show_icons=true&include_all_commits=true&hide_border=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeVideira&theme=gotham&hide_border=true&layout=compact&langs_count=10"/>
+  <br>
   <img height="190px" src="https://streak-stats.demolab.com?user=GuilhermeVideira&theme=gotham&hide_border=true&locale=pt_BR" />
-   <br>
-    <img src="https://shields-io-visitor-counter.herokuapp.com/badge?page=GuilhermeVideira&style=for-the-badge&label=Visualizações+do+perfil&logo=OpenTelemetry&logoColor=97cdcb&color=2ba888" alt="Numero de visualizações do perfil." height="40px" />
    </div>
    
 # 
@@ -347,6 +346,6 @@
 
 #
  
-![Github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=GuilhermeVideira&theme=gotham&hide_border=true)
+![Github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=GuilhermeVideira&style=for-the-badge&label=Atividades+realizadas&theme=gotham&hide_border=true)
 
 #

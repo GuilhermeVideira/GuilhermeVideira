@@ -347,7 +347,3 @@
  </div>
 
 #
- 
-![Github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=GuilhermeVideira&style=for-the-badge&label=Atividades+realizadas&theme=gotham&hide_border=true)
-
-#

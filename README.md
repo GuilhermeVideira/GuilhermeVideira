@@ -137,6 +137,38 @@
     </a>
       </td>
     </tr>
+   <tr>
+      <td>
+      <a href="https://github.com/GuilhermeVideira/Projeto-Site-de-Sistema-de-Notas" target="_blank">
+  <img align="center" src="https://github-readme-stats-endrewss.vercel.app/api/pin?username=GuilhermeVideira&repo=Projeto-Site-de-Sistema-de-Notas&theme=gotham&hide_border=true&show_icons=true&cache_seconds=14400">
+    </a>
+      </td>
+    </tr>
+    </tr>
+    <tr>
+      <td>
+      <a href="https://github.com/GuilhermeVideira/Projeto-Aplicativo-de-Cadastro" target="_blank">
+  <img align="center" src="https://github-readme-stats-endrewss.vercel.app/api/pin?username=GuilhermeVideira&repo=Projeto-Aplicativo-de-Cadastro&theme=gotham&hide_border=true&show_icons=true&cache_seconds=14400">
+    </a>
+      </td>
+    </tr>
+    </tr>
+     <tr>
+      <td>
+      <a href="https://github.com/GuilhermeVideira/Projeto-Sistema-Calendario-e-Relogio" target="_blank">
+  <img align="center" src="https://github-readme-stats-endrewss.vercel.app/api/pin?username=GuilhermeVideira&repo=Projeto-Sistema-Calendario-e-Relogio&theme=gotham&hide_border=true&show_icons=true&cache_seconds=14400">
+    </a>
+      </td>
+    </tr>
+    </tr>
+     <tr>
+      <td>
+      <a href="https://github.com/GuilhermeVideira/Projeto-Site-de-Exercicios-Php" target="_blank">
+        <img align="center" src="https://github-readme-stats-endrewss.vercel.app/api/pin?username=GuilhermeVideira&repo=Projeto-Site-de-Exercicios-Php&theme=gotham&hide_border=true&show_icons=true&cache_seconds=14400">
+    </a>
+      </td>
+    </tr>
+    </tr>
      <tr>
       <td>
       <a href="https://github.com/GuilhermeVideira/Projeto-Lista-de-Tarefas" target="_blank">

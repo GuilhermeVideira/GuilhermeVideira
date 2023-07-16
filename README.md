@@ -137,6 +137,63 @@
     </a>
       </td>
     </tr>
+     <tr>
+      <td>
+      <a href="https://github.com/GuilhermeVideira/Projeto-Site-de-Operadores-Logicos" target="_blank">
+  <img align="center" src="https://github-readme-stats-endrewss.vercel.app/api/pin?username=GuilhermeVideira&repo=Projeto-Site-de-Operadores-Logicos&theme=gotham&hide_border=true&show_icons=true&cache_seconds=14400">
+    </a>
+      </td>
+    </tr>
+     <tr>
+      <td>
+      <a href="https://github.com/GuilhermeVideira/Projeto-Exemplos-Funcionais-de-Switch" target="_blank">
+  <img align="center" src="https://github-readme-stats-endrewss.vercel.app/api/pin?username=GuilhermeVideira&repo=Projeto-Exemplos-Funcionais-de-Switch&theme=gotham&hide_border=true&show_icons=true&cache_seconds=14400">
+    </a>
+      </td>
+    </tr>
+     <tr>
+      <td>
+      <a href="https://github.com/GuilhermeVideira/Projeto-Automacao-de-Analise-Ambientais-e-Geoprocessamento" target="_blank">
+  <img align="center" src="https://github-readme-stats-endrewss.vercel.app/api/pin?username=GuilhermeVideira&repo=Projeto-Automacao-de-Analise-Ambientais-e-Geoprocessamento&theme=gotham&hide_border=true&show_icons=true&cache_seconds=14400">
+    </a>
+      </td>
+    </tr>
+     <tr>
+      <td>
+      <a href="https://github.com/GuilhermeVideira/Projeto-Automacao-Web" target="_blank">
+  <img align="center" src="https://github-readme-stats-endrewss.vercel.app/api/pin?username=GuilhermeVideira&repo=Projeto-Automacao-Web&theme=gotham&hide_border=true&show_icons=true&cache_seconds=14400">
+    </a>
+      </td>
+    </tr>
+      <tr>
+      <td>
+      <a href="https://github.com/GuilhermeVideira/Projeto-Ciencia-de-Dados" target="_blank">
+  <img align="center" src="https://github-readme-stats-endrewss.vercel.app/api/pin?username=GuilhermeVideira&repo=Projeto-Ciencia-de-Dados&theme=gotham&hide_border=true&show_icons=true&cache_seconds=14400">
+    </a>
+      </td>
+    </tr>
+      <tr>
+      <td>
+      <a href="https://github.com/GuilhermeVideira/Projeto-Aplicativo-de-Reserva-de-Lugar" target="_blank">
+  <img align="center" src="https://github-readme-stats-endrewss.vercel.app/api/pin?username=GuilhermeVideira&repo=Projeto-Aplicativo-de-Reserva-de-Lugar&theme=gotham&hide_border=true&show_icons=true&cache_seconds=14400">
+    </a>
+      </td>
+    </tr>
+     <tr>
+      <td>
+      <a href="https://github.com/GuilhermeVideira/Projeto-Analise-de-dados" target="_blank">
+  <img align="center" src="https://github-readme-stats-endrewss.vercel.app/api/pin?username=GuilhermeVideira&repo=Projeto-Analise-de-dados&theme=gotham&hide_border=true&show_icons=true&cache_seconds=14400">
+    </a>
+      </td>
+    </tr>
+    <tr>
+      <td>
+      <a href="https://github.com/GuilhermeVideira/Projeto-Automacao-de-Processos" target="_blank">
+  <img align="center" src="https://github-readme-stats-endrewss.vercel.app/api/pin?username=GuilhermeVideira&repo=Projeto-Automacao-de-Processos&theme=gotham&hide_border=true&show_icons=true&cache_seconds=14400">
+    </a>
+      </td>
+    </tr>
+    </tr>
    <tr>
       <td>
       <a href="https://github.com/GuilhermeVideira/Projeto-Site-de-Sistema-de-Notas" target="_blank">

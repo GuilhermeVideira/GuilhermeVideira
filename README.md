@@ -71,16 +71,19 @@
                   
 # 
 
+### 📈 Estatísticas:
+
  <div align="center">
   <a href="https://github.com/GuilhermeVideira">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GuilhermeVideira&theme=gotham&show_icons=true&include_all_commits=true&hide_border=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeVideira&theme=gotham&hide_border=true&layout=compact&langs_count=10"/>
   <br>
   <img height="190px" src="https://streak-stats.demolab.com?user=GuilhermeVideira&theme=gotham&hide_border=true&locale=pt_BR" />
+   <br>
+   <center> <img align="center" src="https://visitor-badge.feriirawann.repl.co?username=GuilhermeVideira&repo=https://github.com/GuilhermeVideira/GuilhermeVideira&label=VISITANTES&color=%232BA888&style=for-the-badge&label=Visualizacaos&logo=OpenTelemetry&logoColor=97cdcb&color=2ba888" alt="Número_de_Visualizações" height="40px" /> </center>
    </div>
-   
+  
 # 
- 
 
 ### 💻 Projetos desenvolvidos:
  
@@ -434,5 +437,11 @@
  </table>
   
  </div>
+
+#
+
+### 📌 Atividades:
+
+  <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=GuilhermeVideira&theme=gotham&show_icons=true&hide_border=true&custom_title=Grafico%20de%20Atividades%20no%20Git%20Hub:"/>
 
 #

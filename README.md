@@ -17,7 +17,7 @@
 #### 👅 - Italiano (Nivel: intermediário) / Inglês (Nivel: básico)
  
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=238972&center=true&vCenter=true&width=1000&lines=Welcome%2C+My+name+is+Guilherme+Videira!;I'm+16+years+old.;I'm+from+Brazil%2C+Mongaguá+-+SP.;I+study+systems+development!+;at+Etec+Adolpho+Berezin!;Follw+we!)](https://github.com/endrewss)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=238972&center=true&vCenter=true&width=1000&lines=Welcome%2C+My+name+is+Guilherme+Videira!;I'm+16+years+old.;I'm+from+Brazil%2C+Mongaguá+-+SP.;I+study+systems+development!+;at+Etec+Adolpho+Berezin!;Follw+we!)](https://github.com/GuilhermeVideira)
 
 
 #

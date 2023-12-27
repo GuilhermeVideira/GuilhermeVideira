@@ -18,7 +18,7 @@
 
 ###### ⭐- Desenvolver sites produzindo elementos gráficos. 
 
-###### ⭐- Operar computadores para desenvolver textos técnicos aplicados à área de Informática, através de pesquisas e análises de informaçõe. 
+###### ⭐- Operar computadores para desenvolver textos técnicos aplicados à área de Informática, através de pesquisas e análises de informação. 
 
 ###### ⭐- Pesquisar dados e informações, utilizando a língua inglesa como um dos instrumentos de acesso.
 

@@ -10,7 +10,7 @@
 
 ##### 💻 - Atualmente estou cursando desenvolvimento de sistemas na Etec Adolpho Berezin em Mongaguá - SP. 
 
-##### 📑 - Com meu segundo ano de estudo completo sou apto de: 
+##### 📑 - Com meu segundo ano de estudo completo, sou apto de: 
 
 ###### ⭐- Construir, implementar e manter banco de dados. 
 

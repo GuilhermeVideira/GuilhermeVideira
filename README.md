@@ -14,7 +14,7 @@
 
 ###### ⭐- Construir, implementar e manter banco de dados. 
 
-###### ⭐- Desenvolver sistemas para internet, utilizando banco de dados relacional com interface para o usuário no lado servidor e aplicar conhecimentos básicos de protocolos e comunicação de dados.
+###### ⭐- Desenvolver sistemas para internet, utilizando banco de dados relacional com interface para o usuário no servidor, aplicar conhecimentos básicos de protocolos e comunicação de dados.
 
 ###### ⭐- Desenvolver sites produzindo elementos gráficos. 
 

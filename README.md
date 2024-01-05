@@ -24,8 +24,6 @@
 
 ###### ⭐- Projetar e documentar sistemas de informação, selecionando linguagens de programação de acordo com as especificidades do projeto.
 
-##### 💼 - Em busca da primeira oportunidade de emprego como desenvolvedor. 
-
 ##### 👅 - Italiano (Nivel: intermediário) / Inglês (Nivel: básico)
  
 

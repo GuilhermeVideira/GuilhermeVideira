@@ -1,4 +1,5 @@
-## Guilherme F. Videira | Técnico em Desenvolvimento de Sistemas | Desenvolvedor Full Stack
+## Guilherme F. Videira | Técnico em Desenvolvimento de Sistemas |
+## | Desenvolvedor Full Stack |
 
 <img align="right" alt="Imagem do perfil." src="https://github.com/GuilhermeVideira/GuilhermeVideira/blob/main/imagens/1704488900746.jpg?raw=true" />
  

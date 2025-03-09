@@ -1,33 +1,20 @@
-## 👋🏻 Bem-vindo(a) ao meu perfil!
+## Guilherme F. Videira | Técnico em Desenvolvimento de Sistemas | Desenvolvedor Full Stack
 
-![image](https://user-images.githubusercontent.com/123119430/223731708-7c2216db-5e5a-4688-814f-e6e7243fd990.png) 
-
-#
+<img align="right" alt="Imagem do perfil." src="https://github.com/GuilhermeVideira/GuilhermeVideira/blob/main/imagens/1704488900746.jpg?raw=true" />
  
 <img align="right" alt="Avatar" height="200" width="200"  src="https://github.com/GuilhermeVideira/GuilhermeVideira/blob/main/Avatar/Guilherme%20Videira.png?raw=true" />
 
-### Eu sou Guilherme Videira - 🧑🏻‍
+### Olá, seja bem-vindo(a) ao meu perfil! 👋🏻
 
-##### 💻 - Atualmente estou cursando desenvolvimento de sistemas na Etec Adolpho Berezin em Mongaguá - SP. 
+##### 💻 Sou estudante de Ciência da Computação na Universidade Anhembi Morumbi e formado como Técnico em Desenvolvimento de Sistemas pela Etec Adolpho Berezin. Tenho experiência prática no desenvolvimento de soluções inovadoras para web e sistemas operacionais. Minha formação e prática me proporcionaram uma base sólida em tecnologia da informação, destacando habilidades técnicas, analíticas e criativas para desenvolvimento de sistemas.
 
-##### 📑 - Com meu segundo ano de estudo completo, sou apto de: 
+###### 👅 - Italiano (Nivel: intermediário) / Inglês (Nivel: básico)
 
-###### ⭐- Construir, implementar e manter banco de dados. 
+###### 📑 - Visão analítica: Solução de problemas e tomada de decisões baseadas em dados.
 
-###### ⭐- Desenvolver sistemas para internet, utilizando banco de dados relacional com interface para o usuário no servidor, aplicar conhecimentos básicos de protocolos e comunicação de dados.
+###### ⭐-  Boa comunicação: Essencial para trabalho em equipe e apresentações claras.
 
-###### ⭐- Desenvolver sites produzindo elementos gráficos. 
-
-###### ⭐- Operar computadores para desenvolver textos técnicos aplicados à área de Informática, através de pesquisas e análises de informação. 
-
-###### ⭐- Pesquisar dados e informações, utilizando a língua inglesa como um dos instrumentos de acesso.
-
-###### ⭐- Projetar e documentar sistemas de informação, selecionando linguagens de programação de acordo com as especificidades do projeto.
-
-##### 👅 - Italiano (Nivel: intermediário) / Inglês (Nivel: básico)
- 
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=238972&center=true&vCenter=true&width=1000&lines=Welcome%2C+My+name+is+Guilherme+Videira!;I'm+16+years+old.;I'm+from+Brazil%2C+Mongaguá+-+SP.;I+study+systems+development!+;at+Etec+Adolpho+Berezin!;Follw+we!)](https://github.com/GuilhermeVideira)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=238972&center=true&vCenter=true&width=1000&lines=Welcome%2C+My+name+is+Guilherme+Videira!;I'm+18+years+old.;I'm+from+Brazil%2C+Mongaguá+-+SP.;I+study+Computer+Science!+;at+Anhembi+Morumbi+University!;I+have+a+technical+degree+in+Systems+Development.;From+Etec+Adolpho+Berezin.;Follw+we!)](https://github.com/GuilhermeVideira)
 
 
 #
@@ -35,7 +22,7 @@
 
 <div> 
  
-  <a href="https://www.instagram.com/guiiziin07/" target="_blank">
+  <a href="https://www.instagram.com/viiideira/" target="_blank">
    <img alt="Instagram" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
    </a> 
  
@@ -70,11 +57,6 @@
    <img align="center" alt="Photoshop" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" />
    <img align="center" alt="VisualStudio" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" />
  <img  align="center" alt="Jupyter Notebook" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" />
-</div>
- 
-#
-
- ### 🧠 Adquirindo conhecimento:
 <img align="center" alt="TypeScript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />  <img align="center" alt="Python" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" /> 
 <img align="center" alt="Linux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
 </div>
@@ -90,7 +72,6 @@
   <br>
   <img height="190px" src="https://streak-stats.demolab.com?user=GuilhermeVideira&theme=gotham&hide_border=true&locale=pt_BR" />
    <br>
-   <center> <img align="center" src="https://visitor-badge.feriirawann.repl.co?username=GuilhermeVideira&repo=https://github.com/GuilhermeVideira/GuilhermeVideira&label=VISITANTES&color=%232BA888&style=for-the-badge&label=Visualizacaos&logo=OpenTelemetry&logoColor=97cdcb&color=2ba888" alt="Número_de_Visualizações" height="40px" /> </center>
    </div>
   
 # 

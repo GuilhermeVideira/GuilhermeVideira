@@ -56,19 +56,6 @@
 <img align="center" alt="TypeScript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />  <img align="center" alt="Python" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" /> 
 <img align="center" alt="Linux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
 </div>
-                  
-# 
-
-### 📈 Estatísticas:
-
- <div align="center">
-  <a href="https://github.com/GuilhermeVideira">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GuilhermeVideira&theme=gotham&show_icons=true&include_all_commits=true&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeVideira&theme=gotham&hide_border=true&layout=compact&langs_count=10"/>
-  <br>
-  <img height="190px" src="https://streak-stats.demolab.com?user=GuilhermeVideira&theme=gotham&hide_border=true&locale=pt_BR" />
-   <br>
-   </div>
   
 # 
 
